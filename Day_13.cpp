@@ -1,7 +1,6 @@
 /*
 https://www.hackerrank.com/challenges/30-abstract-classes/problem?isFullScreen=true
 */
-#include <bits/stdc++.h>
 
 #include <cmath>
 #include <cstdio>
